@@ -1,8 +1,19 @@
+body{
+    background-color:rgb(109, 191, 202);
+}
 h1{
     text-align: center;
-    color:red;
+    color:rgb(174, 0, 255);
 }
 
 p{
-    font-size: 10px;
+    font-size: 50px;
+    text-align: center;
+   
+}
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
